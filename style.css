@@ -1,0 +1,123 @@
+.input {
+    margin-bottom: 5px;
+}
+
+body {
+    text-align: center;
+    margin-right: 45px;
+    margin-left: 45px;
+}
+
+header {
+    text-align: right;
+    margin-top: 5px;
+    margin-right: 45px;
+    margin-left: 45px;
+    border-bottom: 2px solid #cccccc;
+    display: inline-block;
+}
+
+.headerLogo {
+    text-align: left;
+    margin-bottom: 2px;
+}
+
+.logOutForm {
+    display: inline;
+}
+
+.headerButton {
+    margin-top: 5px;
+    margin-left: 2px;
+}
+
+#logo {
+    cursor: pointer;
+}
+
+.loginButton {
+    margin-left: 2px;
+}
+
+.chocolateImg {
+    width: 45%;
+}
+
+.uploadButton {
+    margin-top: 5px;
+}
+
+button {
+    border: none;
+}
+
+button:focus {
+    outline: 0 !important;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+.dropmenu {
+    width: 50px;
+}
+
+.body {
+    color: #3e3e3e;
+}
+
+.profile {
+    max-height: 100%;
+    max-width: 100%;
+    align-self: center;
+}
+
+.bounding-box {
+    height: 35px;
+    width: 35px;
+    margin-top: 5px;
+    padding: 1px;
+    border: 1px solid #cccccc;
+}
+
+.matchImage {
+    height: 200px;
+}
+
+.tinderButton {
+    height: 75px;
+    cursor: pointer;
+}
+
+.circle {
+    display: inline-block;
+    border: 1px solid #cccccc;
+    line-height: 80px;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.infoButton {
+    height: 35px;
+    cursor: pointer;
+}
+
+.info {
+    display: inline-block;
+    border: 1px solid #cccccc;
+    line-height: 40px;
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+
+.panel-group {
+    margin-top: 5px;
+    border: 0px solid white;
+}
+
+.panel-group div {
+    border: 0px solid white;
+}
