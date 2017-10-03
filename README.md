@@ -1,3 +1,3 @@
 # Võrgurakendused I
 
-I can't access the code in TTÜ server anymore but my foor Tinder application is at http://dijkstra.cs.ttu.ee/~Maria.Kert/prax4/index.php
+My food Tinder application for chocolate is located at http://dijkstra.cs.ttu.ee/~Maria.Kert/prax4/index.php
